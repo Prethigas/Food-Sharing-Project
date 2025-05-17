@@ -81,6 +81,3 @@ Implementing this food waste management system is a **transformative and compass
 It bridges the gap between surplus and scarcity, offering a **practical, community-driven solution** to a persistent social problem. This initiative is a **positive stride toward a hunger-free and waste-free future.**
 
 ---
-
-If you’d like this formatted into a Word document or need a PowerPoint presentation based on it, I can create that for you too.
-
